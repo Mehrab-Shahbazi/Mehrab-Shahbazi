@@ -123,29 +123,4 @@ I am particularly interested in developing reliable and automated AI methods for
 This direction aligns with my interest in applying computer vision and deep learning to real-world scientific and biomedical problems, particularly where automated quality control can support reproducible research, reduce manual inspection, and improve downstream image analysis.
 
 ---
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehrab-Shahbazi&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrab-Shahbazi&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://github.com/Mehrab-Shahbazi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mehrab-s-916a73130/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-I'm always interested in **AI research, computer vision, deep learning, and challenging technical problems**.
-
----
-
 ⭐ If you find any of my projects useful, feel free to star the repository!
