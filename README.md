@@ -24,10 +24,19 @@ My work focuses on developing practical AI solutions as well as exploring **rese
 
 ---
 
-### 🤝 Contributions
-
-- 🔬 **DeepFace** — Contributed to the popular face recognition library  
-  🔗 [github.com/serengil/deepface](https://github.com/serengil/deepface)
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <strong>🤝 Contributions</strong><br>
+        <a href="https://github.com/serengil/deepface">DeepFace</a> — Face recognition library
+      </td>
+      <td align="right">
+        <img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/deepface-icon-labeled.png" alt="DeepFace Logo" width="60">
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 ---
@@ -57,10 +66,6 @@ Research on medical image analysis, MRI processing, automated image-quality asse
 ### 📚 Research & Academic Work
 
 ---
-
-My research interests lie at the intersection of:
-
-Artificial Intelligence × Computer Vision × Deep Learning × Medical Imaging
 
 I am particularly interested in developing reliable, automated, and generalizable AI methods for scientific and biomedical applications.
 
