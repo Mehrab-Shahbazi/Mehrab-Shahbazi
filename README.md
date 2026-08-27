@@ -36,6 +36,22 @@ Computer vision work involving UAV and satellite imagery, image matching, locali
 🏥 Medical Imaging & MRI
 
 Research on medical image analysis, MRI processing, automated image-quality assessment, and quality control.
+
+📚 Research & Academic Work
+
+My research interests lie at the intersection of:
+
+Artificial Intelligence × Computer Vision × Deep Learning × Medical Imaging
+
+I am particularly interested in developing reliable, automated, and generalizable AI methods for scientific and biomedical applications.
+
+One of my research directions involves automated quality control of MRI data, where machine learning can be used to identify image-quality issues, reduce manual inspection, and improve the reliability of downstream image analysis.
+
+📄 Research:
+Automated quality control of small-animal MR
+
+🔬 Research Lab:
+Aswendt Lab
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [mehrabshahbazi@gmail.com](mailto:mehrabshahbazi@gmail.com)
 
