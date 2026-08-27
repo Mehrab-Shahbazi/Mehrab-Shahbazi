@@ -5,7 +5,17 @@ Fullstack AI Engineer
 ---------------------
 
 I'm an AI/ML Engineer and researcher who is in love with problem solving and interested in building intelligent systems that combine deep learning, computer vision, VLMs, LLMs, and machine learning.
+My work focuses on developing practical AI solutions as well as exploring research problems in areas such as:
 
+🧠 Large Language Models (LLMs) & Vision-Language Models (VLMs)
+🤖 Deep Learning & Machine Learning
+👁️ Computer Vision
+🧠 Medical Imaging & MRI Image Processing
+🎯 Object Detection & Segmentation
+🧑‍💻 Face Recognition
+🛰️ Satellite & UAV Vision
+🏥 Medical Imaging & MRI Image Processing
+🔬 AI Research
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [mehrabshahbazi@gmail.com](mailto:mehrabshahbazi@gmail.com)
 
