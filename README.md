@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mehrab Shahbazi
 ========================================================================================================================================
 
-Fullstack AI Engineer
+Full-Stack AI Engineer
 ---------------------
 
-I'm an AI/ML Engineer and researcher who is in love with problem solving and interested in building intelligent systems that combine deep learning, computer vision, VLMs, LLMs, and machine learning.
+I'm an Full-Stack AI Engineer and researcher who is in love with *problem solving* and interested in building LLM as service.
 My work focuses on developing practical AI solutions as well as exploring research problems in areas such as:
 
 🧠 Large Language Models (LLMs) & Vision-Language Models (VLMs)
