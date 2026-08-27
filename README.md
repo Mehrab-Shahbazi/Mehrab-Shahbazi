@@ -52,10 +52,7 @@ Research on medical image analysis, MRI processing, automated image-quality asse
 
 My research interests lie at the intersection of:
 
-- Artificial Intelligence
-- Computer Vision
-- Deep Learning
-- Medical Imaging
+Artificial Intelligence × Computer Vision × Deep Learning × Medical Imaging
 
 I am particularly interested in developing reliable, automated, and generalizable AI methods for scientific and biomedical applications.
 
