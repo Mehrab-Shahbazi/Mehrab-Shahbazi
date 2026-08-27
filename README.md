@@ -1,15 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mehrab Shahbazi
-
----
-
+========================================================================================================================================
 ### Full-Stack AI Engineer
 
 ---
-
-I'm a Full-Stack AI Engineer and researcher who is in love with *problem solving* and interested in building **LLM as service**.
-
+I'm an Full-Stack AI Engineer and researcher who is in love with *problem solving* and interested in building **LLM as service**.
 My work focuses on developing practical AI solutions as well as exploring **research problems** in areas such as:
-
 - 🧠 Large Language Models (LLMs) & Vision-Language Models (VLMs)
 - 🤖 Deep Learning & Machine Learning
 - 👁️ Computer Vision
@@ -28,18 +23,6 @@ My work focuses on developing practical AI solutions as well as exploring **rese
 **🔐 Enigma Machine Simulator**
 
 Python implementation of the historical Enigma machine with rotor configuration, reflector logic, double-stepping, and encoding/decoding support.
-
----
-
-**🧑‍💻 Face Recognition & Representation Learning**
-
-Research on face recognition, image embeddings, feature extraction, and similarity learning for low-resolution images.
-
----
-
-**🎯 Object Detection & Segmentation**
-
-Experiments with YOLO and other deep-learning frameworks for object detection and image segmentation.
 
 ---
 
