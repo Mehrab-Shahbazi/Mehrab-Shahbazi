@@ -24,6 +24,14 @@ My work focuses on developing practical AI solutions as well as exploring **rese
 
 ---
 
+### 🤝 Contributions
+
+- 🔬 **DeepFace** — Contributed to the popular face recognition library  
+  🔗 [github.com/serengil/deepface](https://github.com/serengil/deepface)
+
+
+---
+
 ### 🚀 Featured Projects
 
 ---
