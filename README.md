@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack AI Engineer
 ---------------------
 
-I'm an Full-Stack AI Engineer and researcher who is in love with *problem solving* and interested in building LLM as service.
-My work focuses on developing practical AI solutions as well as exploring research problems in areas such as:
+I'm an Full-Stack AI Engineer and researcher who is in love with *problem solving* and interested in building **LLM as service**.
+My work focuses on developing practical AI solutions as well as exploring **research problems** in areas such as:
 
 🧠 Large Language Models (LLMs) & Vision-Language Models (VLMs)<br>
 🤖 Deep Learning & Machine Learning<br>
@@ -14,30 +14,22 @@ My work focuses on developing practical AI solutions as well as exploring resear
 🎯 Object Detection & Segmentation<br>
 🧑‍💻 Face Recognition<br>
 🛰️ Satellite & UAV Vision<br>
-🔬 AI Research
-
-🚀 Featured Projects
-🔐 Enigma Machine Simulator
+🔬 AI Research<br>
+---
+🚀 Featured Projects<br>
+🔐 **Enigma Machine Simulator**<br>
 
 Python implementation of the historical Enigma machine with rotor configuration, reflector logic, double-stepping, and encoding/decoding support.
 
-🧑‍💻 Face Recognition & Representation Learning
-
-Research on face recognition, image embeddings, feature extraction, and similarity learning for low-resolution images.
-
-🎯 Object Detection & Segmentation
-
-Experiments with YOLO and other deep-learning frameworks for object detection and image segmentation.
-
-🛰️ UAV & Satellite Computer Vision
+🛰️ **UAV & Satellite Computer Vision**
 
 Computer vision work involving UAV and satellite imagery, image matching, localization, segmentation, object detection, and navigation.
 
-🏥 Medical Imaging & MRI
+🏥 **Medical Imaging & MRI**
 
 Research on medical image analysis, MRI processing, automated image-quality assessment, and quality control.
-
-📚 Research & Academic Work
+---
+📚 **Research & Academic Work**
 
 My research interests lie at the intersection of:
 
@@ -48,10 +40,10 @@ I am particularly interested in developing reliable, automated, and generalizabl
 One of my research directions involves automated quality control of MRI data, where machine learning can be used to identify image-quality issues, reduce manual inspection, and improve the reliability of downstream image analysis.
 
 📄 Research:
-Automated quality control of small-animal MR
+[Automated quality control of small-animal MR](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00317/124612/Automated-quality-control-of-small-animal-MR)
 
 🔬 Research Lab:
-Aswendt Lab
+[Aswendt Lab](https://github.com/Aswendt-Lab)
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [mehrabshahbazi@gmail.com](mailto:mehrabshahbazi@gmail.com)
 
