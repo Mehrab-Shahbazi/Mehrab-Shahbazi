@@ -43,19 +43,19 @@ My work focuses on developing practical AI solutions as well as exploring **rese
 
 ### 🚀 Featured Projects
 
----
+
 
 **🔐 Enigma Machine Simulator**
 
 Python implementation of the historical Enigma machine with rotor configuration, reflector logic, double-stepping, and encoding/decoding support.
 
----
+
 
 **🛰️ UAV & Satellite Computer Vision**
 
 Computer vision work involving UAV and satellite imagery, image matching, localization, segmentation, object detection, and navigation.
 
----
+
 
 **🏥 Medical Imaging & MRI**
 
@@ -65,13 +65,9 @@ Research on medical image analysis, MRI processing, automated image-quality asse
 
 ### 📚 Research & Academic Work
 
----
-
 I am particularly interested in developing reliable, automated, and generalizable AI methods for scientific and biomedical applications.
 
 One of my research directions involves automated quality control of MRI data, where machine learning can be used to identify image-quality issues, reduce manual inspection, and improve the reliability of downstream image analysis.
-
----
 
 **📄 Research Paper:**
 
