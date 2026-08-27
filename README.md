@@ -15,6 +15,27 @@ My work focuses on developing practical AI solutions as well as exploring resear
 🧑‍💻 Face Recognition<br>
 🛰️ Satellite & UAV Vision<br>
 🔬 AI Research
+
+🚀 Featured Projects
+🔐 Enigma Machine Simulator
+
+Python implementation of the historical Enigma machine with rotor configuration, reflector logic, double-stepping, and encoding/decoding support.
+
+🧑‍💻 Face Recognition & Representation Learning
+
+Research on face recognition, image embeddings, feature extraction, and similarity learning for low-resolution images.
+
+🎯 Object Detection & Segmentation
+
+Experiments with YOLO and other deep-learning frameworks for object detection and image segmentation.
+
+🛰️ UAV & Satellite Computer Vision
+
+Computer vision work involving UAV and satellite imagery, image matching, localization, segmentation, object detection, and navigation.
+
+🏥 Medical Imaging & MRI
+
+Research on medical image analysis, MRI processing, automated image-quality assessment, and quality control.
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [mehrabshahbazi@gmail.com](mailto:mehrabshahbazi@gmail.com)
 
